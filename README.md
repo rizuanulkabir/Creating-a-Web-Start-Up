@@ -1,10 +1,11 @@
 # GroupBuy
 
 <p align="center">
-  <img src="group buy.jpg" alt="GroupBuy Banner" width="600">
+  <img src="https://raw.githubusercontent.com/rizuanulkabir/Creating-a-Web-Start-Up/main/Groupbuy%20logo.png" alt="GroupBuy Banner" width="600">
 </p>
 
-> **"We give small companies big buying power."** > **"Buy together. Save together."**
+> **"We give small companies big buying power."**
+> **"Buy together. Save together."**
 
 GroupBuy is the first digital co-buying platform tailored specifically for Small and Medium-sized Enterprises (SMEs). Our platform connects SMEs across various fragmented industries—such as gastronomy, construction, garments, and office supplies—enabling them to bundle their purchasing power and secure bulk-order discounts that are usually reserved for large corporations.
 
